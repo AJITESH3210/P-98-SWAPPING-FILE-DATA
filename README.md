@@ -7,6 +7,6 @@ In our busy schedule we make mistakes like enter 1st file's data into 2nd file a
 
 -> You just need to enter the names of the 1st and 2nd files. And your work is done.
 
-Data **Swaped** Successfully.
+Data **Swapped** Successfully.
 
 # Project By J AJITESH
